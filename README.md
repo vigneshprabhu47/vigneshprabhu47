@@ -1,0 +1,5 @@
+- 👋 I’m Vignesh
+- 👀 Primarily interested in Web development
+- 🌱 Currently working on my MEAN skills
+- 💞️ Help needed on problems related to Angular, JavaScript, ASP.NET Web API, MS SQL server, Excel VBA, Windows Forms, VB.NET, Form.io? Try me once.
+- 📫 IG, FB, Twitter, StackBlitz, reddit, MS Docs, LinkedIn @ vigneshprabhu47
