@@ -1,5 +1,5 @@
 - 👋 I’m Vignesh
 - 👀 Primarily interested in Web development
-- 🌱 Currently working on my MEAN skills
-- 💞️ Help needed on problems related to Angular 2+, JavaScript/TypeScript, ASP.NET Web API, MS SQL server, Excel VBA, Windows Forms, VB.NET, Form.io, MongoDB? Try me once.
+- 🌱 Currently working on my .NET-Angular skills
+- 💼 Full stack web developer experienced in .NET/.NET Core, Angular 4+, Microsoft SQL Server, Form.io, Excel VBA, Windows Forms (VB.NET, C#)
 - 📫 https://linktr.ee/vigneshprabhu47
